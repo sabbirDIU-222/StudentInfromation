@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">S-info</string>
+
+
+    <string-array name="registration_status">
+        <item>Complete</item>
+        <item>Pending</item>
+        <item>Partial</item>
+    </string-array>
+
+    <string-array name="section">
+        <item>UC-A</item>
+        <item>PC-A</item>
+        <item>PC_B</item>
+        <item>PC_C</item>
+        <item>PC_D</item>
+
+    </string-array>
+
+
+    <string-array name="course_code">
+        <item>cse121</item>
+        <item>cse122</item>
+        <item>cse124</item>
+        <item>cse123</item>
+        <item>cse131</item>
+        <item>cse132</item>
+        <item>cse133</item>
+        <item>cse135</item>
+        <item>cse136</item>
+        <item>cse212</item>
+        <item>cse213</item>
+        <item>cse214</item>
+        <item>cse215</item>
+        <item>cse221</item>
+        <item>cse222</item>
+        <item>cse223</item>
+        <item>cse224</item>
+        <item>cse225</item>
+        <item>cse226</item>
+        <item>cse231</item>
+        <item>cse232</item>
+        <item>cse233</item>
+        <item>cse234</item>
+        <item>cse235</item>
+        <item>cse236</item>
+        <item>cse237</item>
+        <item>cse311</item>
+        <item>cse312</item>
+        <item>cse313</item>
+        <item>cse314</item>
+        <item>cse315</item>
+        <item>cse316</item>
+        <item>cse317</item>
+        <item>cse321</item>
+        <item>cse322</item>
+        <item>cse323</item>
+        <item>cse324</item>
+        <item>cse325</item>
+        <item>cse326</item>
+        <item>cse331</item>
+        <item>cse332</item>
+        <item>cse333</item>
+        <item>cse334</item>
+        <item>cse335</item>
+        <item>cse336</item>
+        <item>cse411</item>
+        <item>cse412</item>
+        <item>cse413</item>
+        <item>cse414</item>
+        <item>cse415</item>
+        <item>cse421</item>
+        <item>cse422</item>
+        <item>cse423</item>
+        <item>cseXXX</item>
+        <item>cse498</item>
+        <item>cse499</item>
+    </string-array>
+
+
+</resources>

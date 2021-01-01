@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+
+   <!-- <solid android:color="#F6F7FA"
+        />-->
+
+    <gradient android:startColor="#A0ACFF"
+        android:endColor="#D6DFFF"
+        android:centerColor="#E0E9FF"
+        android:gradientRadius="@android:integer/config_longAnimTime"/>
+
+
+
+    <corners android:radius="5dp"
+        android:topLeftRadius="8dp"
+        android:bottomRightRadius="8dp"
+        android:topRightRadius="13dp"
+        android:bottomLeftRadius="13dp"/>
+
+
+    <stroke
+        android:width="0.4dp"
+        android:color="@android:color/black" />
+
+</shape>
